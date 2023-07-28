@@ -14,7 +14,7 @@ Welcome to my Azure Resume repository! This repository contains the code and ass
 
 ## About
 
-This Azure Resume project is designed to highlight my expertise as a Training Architect, Azure MVP, and YouTuber focused on making cloud learning more accessible and less daunting for everyone. It features my journey into the world of technology, my projects, and my passion for innovation.
+This Azure Resume project is designed to highlight my skills with cloud computing in Azure. It features my journey into the world of technology, my projects, and my passion for innovation.
 
 ## Installation
 
